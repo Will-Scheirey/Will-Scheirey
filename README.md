@@ -30,37 +30,37 @@ I'm an aerospace major at WPI, and a self-taught programmer with experience in m
 ### Stats
 
 <a href="https://github.com/Will-Scheirey#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Will-Scheirey&include_all_commits=true&rank_icon=github&show_icons=true&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Will-Scheirey&include_all_commits=true&rank_icon=github&show_icons=true&theme=dark&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Will-Scheirey#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Will-Scheirey&include_all_commits=true&rank_icon=github&show_icons=true&theme=default&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Will-Scheirey&include_all_commits=true&rank_icon=github&show_icons=true&theme=default&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Will-Scheirey#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Scheirey&hide_progress=true&theme=transparent&hide_border=true&title_color=fff&text_color=9f9f9f"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Scheirey&hide_progress=true&theme=transparent&hide_border=true&title_color=fff&text_color=9f9f9f"/>
 </a>
 
 <a href="https://github.com/Will-Scheirey#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Scheirey&hide_progress=true&theme=transparent&hide_border=true&title_color=000&text_color=6f6f6f"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Scheirey&hide_progress=true&theme=transparent&hide_border=true&title_color=000&text_color=6f6f6f"/>
 </a>
 
 ### What I'm Working On
 
 <a href="https://github.com/code-and-circuit/spot-web-server#gh-dark-mode-only">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin?username=code-and-circuit&repo=spot-web-server&title_color=fff&text_color=9f9f9f&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=code-and-circuit&repo=spot-web-server&title_color=fff&text_color=9f9f9f&theme=transparent&hide_border=true"/>
 </a>
 
 <a href="https://github.com/code-and-circuit/spot-web-server#gh-light-mode-only">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin?username=code-and-circuit&repo=spot-web-server&title_color=000&text_color=6f6f6f&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=code-and-circuit&repo=spot-web-server&title_color=000&text_color=6f6f6f&theme=transparent&hide_border=true"/>
 </a>
 
 <a href="https://github.com/WPI-HPRC/groundstation-backend-java#gh-dark-mode-only">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin?username=WPI-HPRC&repo=groundstation-backend-java&title_color=fff&text_color=9f9f9f&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=WPI-HPRC&repo=groundstation-backend-java&title_color=fff&text_color=9f9f9f&theme=transparent&hide_border=true"/>
 </a>
 
 <a href="https://github.com/WPI-HPRC/groundstation-backend-java#gh-light-mode-only">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin?username=WPI-HPRC&repo=groundstation-backend-java&title_color=000&text_color=6f6f6f&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=WPI-HPRC&repo=groundstation-backend-java&title_color=000&text_color=6f6f6f&theme=transparent&hide_border=true"/>
 </a>
 <br />
 <p>Made using <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">github-readme-stats</a> and <a href="https://www.profileme.dev/">profileme</a></p>
