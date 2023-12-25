@@ -62,5 +62,6 @@ I'm an aerospace major at WPI, and a self-taught programmer with experience in m
 <a href="https://github.com/WPI-HPRC/groundstation-backend-java#gh-light-mode-only">
   <img height=150 src="https://github-readme-stats.vercel.app/api/pin?username=WPI-HPRC&repo=groundstation-backend-java&title_color=000&text_color=6f6f6f&theme=transparent&hide_border=true"/>
 </a>
-
+<br />
+<p>Made using <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">github-readme-stats</a> and <a href="https://www.profileme.dev/">profileme</a></p>
 
